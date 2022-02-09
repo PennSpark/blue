@@ -13,6 +13,8 @@ layout: default
 
 
 
+[toc]
+
 ### Our First HTML Code
 
 - HTML code generally comes in **pairs**: `<tag> content </tag>`

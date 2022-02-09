@@ -11,7 +11,9 @@ layout: default
 - **HTML**: describes the structure and content (skeleton) of a web page
 - **CSS**: describes the formatting and style (skin) of a web page
 
- 
+
+
+[toc]
 
 ### Our First CSS Code
 
