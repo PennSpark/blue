@@ -6,9 +6,10 @@ layout: default
 
 # Spark Blue 💙
 
-## [/blue/dev](Learn Development)
+## [Learn Development](/blue/dev)
 
-## [/blue/design](Learn Design)
+## [Learn Design](/blue/design)
+
 
 
 ### What is Spark?
