@@ -6,7 +6,10 @@ layout: default
 
 # 2.1 HTML
 
-HTML code describes the structure and content of a web page.
+### What is HTML/CSS?
+
+- **HTML**: describes the structure and content of a web page
+- **CSS**: describes the formatting and style of a web page
 
 
 
@@ -95,33 +98,22 @@ HTML code describes the structure and content of a web page.
 
 - Grouping together similar elements
 
-- <div></div>: used as container for other HTML elements, usually as big containers
+- `<div></div>`: used as container for other HTML elements, usually as big containers
 
   - Defines a “block” section
 
   - Eg:
 
-    ```
-     <div>
-    ```
-
-    ```
+  - ```html
+    <div>
        <h2>Pikachu</h2>
-    ```
-
-    ```
        <p>Pikachu is Ash's trusty companion!</p>
-    ```
-
-    ```
        <img src="https://i.pinimg.com/originals/cb/33/49/cb3349b86ca661ca61ae9a36d88d70d4.png">
-    ```
-
-    ```
-    </div>  
+    </div>
     ```
 
 - `<span></span>`: used as container for some text, or for smaller containers
+
   - Defines a “inline” section
 
  
@@ -136,11 +128,11 @@ HTML code describes the structure and content of a web page.
 
 ### Styling Text
 
-- Can change individual HTML element or section attributes with **style** attribute
+- Can change individual HTML element or section attributes with **style** attribute through **inline-styling**
 - If you want to change style of **entire page**, use CSS instead (learned in next section)
 - There are a lot of attributes you can change!
 - **Text Color**
-  - <p style = "color: black;">
+  - `<p style = "color: black;">`
   - **Standard Colors**:
     - `black`, `red`, `blue`, `green`, `purple`, `pink`, etc.
     - Find a [full list of colors here](https://www.w3schools.com/colors/colors_names.asp)
