@@ -1,6 +1,6 @@
 ---
 title: "Dev | 💙"
-permalink: /
+permalink: /dev
 layout: default
 ---
 
