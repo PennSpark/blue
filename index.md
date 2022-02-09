@@ -7,7 +7,6 @@ layout: default
 # Spark Blue 💙
 
 * [Learn Development](/blue/dev)
-
 * [Learn Design](/blue/design)
 
 *Note: This site is still a work in progress – please check back later!*

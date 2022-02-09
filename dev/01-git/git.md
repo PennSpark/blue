@@ -10,7 +10,7 @@ layout: default
 
 
 
-## Getting Started
+## Git Overview
 
 **What is Git?**
 
