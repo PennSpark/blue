@@ -6,4 +6,4 @@ layout: default
 
 # Learn Development
 
-* [Week 1: Git](/dev/git.md)
+* [Week 1: Git](/git)
