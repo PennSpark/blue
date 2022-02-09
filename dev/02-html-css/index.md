@@ -23,5 +23,11 @@ Welcome to the HTML/CSS lesson! Today we’ll be going over the basics of HTML a
 
 
 
+### Resources
+
+I highly recommend the **[w3schools HTML](https://www.w3schools.com/html/default.asp)** and **[w3schools CSS](https://www.w3schools.com/css/default.asp)** tutorials in order to learn HTML & CSS syntax!
+
+
+
 [Deliverable]() | *Written by [Grace J.](https://gracejiang.me/)*
 
