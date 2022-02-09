@@ -5,7 +5,6 @@ layout: default
 ---
 
 # Git Deliverable
-**Penn Spark Spring 2022** / Written by [Grace J.](https://gracejiang.me/) 
 
 *Note: This tutorial is written for those with MacOS. If you use Linux or Windows, your terminal commands may be different.*
 
@@ -95,3 +94,5 @@ Finally, navigate to your profile to make sure your changes got pushed.
 
 ## [Submit Deliverable Here](https://forms.gle/M8sGaURGmaAwGHcX7)
 
+
+*Written by [Grace J.](https://gracejiang.me/)*

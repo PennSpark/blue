@@ -6,9 +6,6 @@ layout: default
 
 # Lesson 1: Git
 
-[**Git Deliverable**](/blue/dev/01-git-deliverable) / Written by [Grace J.](https://gracejiang.me/)
-
-
 
 ## Git Overview
 
@@ -56,3 +53,8 @@ layout: default
 * [Git Workshop Activity](https://github.com/PennSpark/blue-git-workshop/blob/main/workshop.md#starting-your-journey) *(written by Akshay S.)*
 * [Git Setup Guide](01-git-setup-guide.pdf) *(written by Akshay S.)*
 * [Lesson Recording](https://drive.google.com/file/d/1sKdFgTGTLTJtbhlcxsSim7y9COz8NIWt/view?usp=sharing) *(Spark members only)*
+* [Git Deliverable](/blue/dev/01-git-deliverable)
+
+
+
+*Written by [Grace J.](https://gracejiang.me/)*
