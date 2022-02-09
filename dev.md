@@ -6,6 +6,8 @@ layout: default
 
 # Learn Development
 
+Bootcamp Curriculum
+
 | Week        | Topic       | Deliverable |
 | ----------- | ----------- | ----------- |
 | Week 1      | [Git](/blue/dev/git) | Deliverable TBD |
