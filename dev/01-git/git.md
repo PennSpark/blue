@@ -4,9 +4,9 @@ permalink: /dev/01-git
 layout: default
 ---
 
-# Week 1: Git
+# Lesson 1: Git
 
-[**Git Deliverable**](/blue/dev/01-git-deliverable) | Written by [Grace J.](https://gracejiang.me/)
+[**Git Deliverable**](/blue/dev/01-git-deliverable) / Written by [Grace J.](https://gracejiang.me/)
 
 
 
