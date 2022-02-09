@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Git Deliverable
-**Penn Spark Spring 2022** | Written by [Grace J.](https://gracejiang.me/) 
+**Penn Spark Spring 2022** / Written by [Grace J.](https://gracejiang.me/) 
 
 *Note: This tutorial is written for those with MacOS. If you use Linux or Windows, your terminal commands may be different.*
 
