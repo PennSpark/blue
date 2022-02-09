@@ -5,9 +5,7 @@ layout: default
 ---
 
 # Git Deliverable
-Penn Spark Spring 2022
-
-Written by [Grace J.](https://gracejiang.me/)
+**Penn Spark Spring 2022** | Written by [Grace J.](https://gracejiang.me/) 
 
 *Note: This tutorial is written for those with MacOS. If you use Linux or Windows, your terminal commands may be different.*
 
@@ -65,9 +63,35 @@ Next, open your `README.md` file in [VSCode](https://code.visualstudio.com/) (in
 code .
 ```
 
+Finally, add text about yourself into your `README.md` file using [Markdown](https://www.markdownguide.org/cheat-sheet/). Feel free to get creative in this step! Some cool resources to look into:
+
+* [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 
+Make sure to save your file after you finish editing it.
 
 
+
+## Push README.md to GitHub
+
+It's time to push your changes to GitHub! To do so, run the following commands:
+
+
+
+```
+git add .
+git commit -m "add about me information"
+git push origin main
+```
+
+
+
+Finally, navigate to your profile to make sure your changes got pushed.
+
+...And that's it!
+
+
+
+## [Submit Deliverable Here](https://forms.gle/M8sGaURGmaAwGHcX7)
 
