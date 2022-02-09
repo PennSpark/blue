@@ -6,4 +6,3 @@ layout: default
 
 # Learn Development
 
-* [Week 1: Git](/git)
