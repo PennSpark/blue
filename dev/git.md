@@ -1,6 +1,6 @@
 ---
 title: "Git | 💙"
-permalink: /git
+permalink: /dev/git
 layout: default
 ---
 
