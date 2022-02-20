@@ -61,4 +61,4 @@ Right now, the files you've been working on are stored locally onto your compute
 - Congratulations – you officially have your own personal website up and running on the internet!
 
 
-### [Submit your deliverable here](https://forms.gle/KACnqQWUGqRALMEr7)
+### [Submit Deliverable Here](https://forms.gle/KACnqQWUGqRALMEr7)
