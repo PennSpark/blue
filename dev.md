@@ -11,6 +11,6 @@ Bootcamp Curriculum
 | Lesson        | Topic       | Deliverable |
 | ----------- | ----------- | ----------- |
 | Lesson 0 | [Setup](/blue/dev/00-setup) |  |
-| Lesson 1 | [Git](/blue/dev/01-git) | [Git Deliverable](/blue/dev/01-git-deliverable) |
-| Lesson 2 | [HTML/CSS](/blue/dev/02-html-css) | Deliverable TBD |
+| Lesson 1 | [Git](/blue/dev/01-git) | [Git Deliverable](/blue/dev/01-deliverable-git) |
+| Lesson 2 | [HTML/CSS]() | [HTML/CSS Deliverable](/blue/dev/02-deliverable-html-css) |
 

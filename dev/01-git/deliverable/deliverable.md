@@ -1,6 +1,6 @@
 ---
 title: "Git Deliverable | 💙"
-permalink: /dev/01-git-deliverable
+permalink: /dev/01-deliverable-git
 layout: default
 ---
 

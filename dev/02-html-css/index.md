@@ -1,12 +1,12 @@
 ---
-title: "HTML/CSS | 💙"
+title: "Deployment | 💙"
 permalink: /dev/02-html-css
 layout: default
 ---
 
-# Lesson 2: HTML/CSS
+# Lesson 1: HTML &amp; CSS
 
-Welcome to the HTML/CSS lesson! Today we’ll be going over the basics of HTML and CSS, as well as how to deploy our website to the actual internet using Github pages. We have a lot to cover, so let’s get started!
+Welcome to the HTML/CSS lesson! 
 
 ### What is HTML/CSS?
 
@@ -14,20 +14,4 @@ Welcome to the HTML/CSS lesson! Today we’ll be going over the basics of HTML a
 - **CSS**: describes the formatting and style of a web page
 
 
-
-### Table of Contents
-
-1. [HTML](/blue/dev/02-html)
-2. [CSS](/blue/dev/02-css)
-3. [Deploying Site with GitHub](/blue/dev/02-deploy)
-
-
-
-### Resources
-
-I highly recommend the **[w3schools HTML](https://www.w3schools.com/html/default.asp)** and **[w3schools CSS](https://www.w3schools.com/css/default.asp)** tutorials in order to learn HTML & CSS syntax!
-
-
-
-[Deliverable]() | *Written by [Grace J.](https://gracejiang.me/)*
-
+### This page is still a work in progress

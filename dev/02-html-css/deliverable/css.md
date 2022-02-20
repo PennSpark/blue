@@ -1,6 +1,6 @@
 ---
 title: "CSS | 💙"
-permalink: /dev/02-css
+permalink: /dev/02-deliverable-css
 layout: default
 ---
 

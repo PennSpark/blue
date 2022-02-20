@@ -1,6 +1,6 @@
 ---
 title: "HTML | 💙"
-permalink: /dev/02-html
+permalink: /dev/02-deliverable-html
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Deployment | 💙"
-permalink: /dev/02-deploy
+permalink: /dev/02-deliverable-deploy
 layout: default
 ---
 
@@ -59,3 +59,6 @@ Right now, the files you've been working on are stored locally onto your compute
 ### Congrats!
 
 - Congratulations – you officially have your own personal website up and running on the internet!
+
+
+### [Submit your deliverable here](https://forms.gle/KACnqQWUGqRALMEr7)
