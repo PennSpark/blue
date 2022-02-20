@@ -4,7 +4,7 @@ permalink: /dev/02-deliverable-html-css
 layout: default
 ---
 
-# Lesson 2: HTML/CSS
+# HTML/CSS Deliverable
 
 In this deliverable, we'll create and deploy our own personal website to the internet using HTML, CSS, and Github pages. We have a lot to cover, so let’s get started!
 
@@ -27,7 +27,4 @@ In this deliverable, we'll create and deploy our own personal website to the int
 
 I highly recommend the **[w3schools HTML](https://www.w3schools.com/html/default.asp)** and **[w3schools CSS](https://www.w3schools.com/css/default.asp)** tutorials in order to learn HTML & CSS syntax!
 
-
-
-[Deliverable]() | *Written by [Grace J.](https://gracejiang.me/)*
 

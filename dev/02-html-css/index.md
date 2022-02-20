@@ -4,7 +4,7 @@ permalink: /dev/02-html-css
 layout: default
 ---
 
-# Lesson 1: HTML &amp; CSS
+# Lesson 2: HTML/CSS
 
 Welcome to the HTML/CSS lesson! 
 
